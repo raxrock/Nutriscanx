@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.class
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Model files
+*.h5
+*.tflite
+*.pt
+
+# Data
+data/images/*
+data/nutrition_db/*
+data/user_data/*
+
+# IDE
+.idea/
+.vscode/
+
